@@ -7,10 +7,10 @@
 - 😄 Pronouns: he/him
 
 ### Languages I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github State
-![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&theme=gradiant)
+![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&show_icons=true&theme=radical)
 
 ### Weekt Time State
-[![mehedi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehedikhokon)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehedikhokon)](https://github.com/anuraghazra/github-readme-stats)
