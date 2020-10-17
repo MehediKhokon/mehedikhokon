@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascripts, Django, Flask, React, Go  
 - 🤔 I’m looking for help with React and Go
 - 💬 Ask me about anythings
-- 😄 Pronouns: he/him
+
 
 ### Languages I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
