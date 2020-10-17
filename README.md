@@ -12,5 +12,3 @@
 ### Github State
 ![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&show_icons=true&theme=radical)
 
-### Weekt Time State
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehedikhokon)](https://github.com/anuraghazra/github-readme-stats)
