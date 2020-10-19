@@ -24,5 +24,41 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&show_icons=true&bg_color=red)
+<h2>📊 Weekly development breakdown: </h2>
+<table>
+                <tr>
+                    <td width=215px;>
+                        Python
+                    </td>
+                    <td>
+                        13 hrs 38 mins
+                    </td>
+                    <td>
+                        ████████░░&nbsp;&nbsp;(83.14 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        HTML
+                    </td>
+                    <td width=145px;>
+                        2 hrs 38 mins
+                    </td>
+                    <td width=230px;>
+                        █░░░░░░░░░&nbsp;&nbsp;(16.06 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        others
+                    </td>
+                    <td width=145px;>
+                        6 mins
+                    </td>
+                    <td width=230px;>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.65 %)
+                    </td>
+                </tr></table>
+<hr>
+
 
