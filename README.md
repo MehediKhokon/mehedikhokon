@@ -12,11 +12,17 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"/>
+
+
+
 <br>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&show_icons=true&bg_color=90deg,#6ce2cd,#5185e6,#c84861)
+![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&show_icons=true&bg_color=#6ce2cd)
 
