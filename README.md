@@ -21,8 +21,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/mehedikhokon/mehedikhokon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mehedi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,00d2ff,928dab" alt="Mehedi's GitHub Stats" />
 </a>
+<--1d1f21-->
+
 ---
 <h2>📊 Weekly development breakdown: </h2>
 <table>
