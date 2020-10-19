@@ -9,5 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&show_icons=true&bg_color=0deg,#2193b0→#6dd5ed)
+![mehedi's github stats](https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&show_icons=true&bg_color=0deg,#2193b0,#6dd5ed)
 
