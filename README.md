@@ -17,10 +17,11 @@
 <code><img height="20" alt="Flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 <a href="https://github.com/mehedikhokon/mehedikhokon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/mehedikhokon/mehedikhokon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mehedi's GitHub Stats" />
 </a>
 ---
 <h2>📊 Weekly development breakdown: </h2>
