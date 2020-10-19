@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedikhokon&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=45,4b79a1,283e51" />
 </a>
 <a href="https://github.com/mehedikhokon/mehedikhokon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fcfffe&icon_color=1bb589&bg_color=45,ff5f6d,ffc371" alt="Mehedi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedikhokon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fcfffe&icon_color=1bb589&bg_color=45,5a3f37,2c7744" alt="Mehedi's GitHub Stats" />
 </a>
 
 
