@@ -31,21 +31,21 @@
                         Python
                     </td>
                     <td>
-                        13 hrs 38 mins
+                        15 hrs 0 mins
                     </td>
                     <td>
-                        ████████░░&nbsp;&nbsp;(83.14 %)
+                        ████████░░&nbsp;&nbsp;(75.0 %)
                     </td>
                 </tr>
                 <tr>
                     <td width=220px;>
-                        HTML
+                        React
                     </td>
                     <td width=145px;>
-                        2 hrs 38 mins
+                        4 hrs 0 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(16.06 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(20.0 %)
                     </td>
                 </tr>
                 <tr>
@@ -53,10 +53,10 @@
                         others
                     </td>
                     <td width=145px;>
-                        6 mins
+                        1 hrs 0 min
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(0.65 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(5.0 %)
                     </td>
                 </tr></table>
 <hr>
